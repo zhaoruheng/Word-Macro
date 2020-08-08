@@ -3,7 +3,7 @@
 
 首先单击**视图**>**宏**>**查看宏**
 
-![](https://github.com/zhaoruheng/Word-Macro/blob/master/image/1.jpg)
+![](https://s1.ax1x.com/2020/08/08/a5l3QA.jpg)
 
 给宏命名后，点击**创建**
 

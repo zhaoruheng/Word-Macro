@@ -1,5 +1,5 @@
 ## 一个可以实现仿真手写的宏，支持随机修改字号，行间距，字体
-### 以下教程感谢知乎@[Canscxs](https://www.zhihu.com/people/cans-18-32)贡献，如果图片加载有问题请移步[知乎](https://www.zhihu.com/question/351841327/answer/1378606643)或[洛谷云剪贴板](https://www.luogu.com.cn/paste/hhbqrs2b)
+### 以下教程感谢知乎@[Canscxs](https://www.zhihu.com/people/cans-18-32)贡献，如果图片加载有问题请移步[知乎](https://www.zhihu.com/question/37146954/answer/1393478995)或[洛谷云剪贴板](https://www.luogu.com.cn/paste/hhbqrs2b)
 
 首先单击**视图**>**宏**>**查看宏**
 
@@ -20,6 +20,10 @@
 好了之后再点运行
 
 ![a5lHw6.jpg](https://s1.ax1x.com/2020/08/08/a5lHw6.md.jpg)
+
+下面是运行的效果，自己调一下参数会更好
+![](https://s1.ax1x.com/2020/08/08/a5NtP0.jpg)
+
 ---
 ps:修改代码中a的数值会让随机效果更明显，感觉效果不明显的话可以修改a试试。
 

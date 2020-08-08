@@ -1,5 +1,5 @@
 ## 一个可以实现仿真手写的宏，支持随机修改字号，行间距，字体
-##### 以下教程感谢知乎@[Canscxs](https://www.zhihu.com/people/cans-18-32)贡献
+##### 以下教程感谢知乎@[Canscxs](https://www.zhihu.com/people/cans-18-32)贡献，如果加载有
 
 首先单击**视图**>**宏**>**查看宏**
 
@@ -19,7 +19,7 @@
 
 好了之后再点运行
 
-![5](https://s1.ax1x.com/2020/08/08/a5lHw6.jpg)
+[![a5lHw6.jpg](https://s1.ax1x.com/2020/08/08/a5lHw6.jpg)](https://imgchr.com/i/a5lHw6)
 
 ---
 下面推荐的字体有

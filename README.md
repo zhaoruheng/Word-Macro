@@ -1,11 +1,11 @@
 ## 一个可以实现仿真手写的宏，支持随机修改字号，行间距，字体
-##### 以下教程感谢知乎@[Canscxs](https://www.zhihu.com/people/cans-18-32)贡献，如果加载有问题请移步[知乎](https://www.zhihu.com/question/351841327/answer/1378606643)
+##### 以下教程感谢知乎@[Canscxs](https://www.zhihu.com/people/cans-18-32)贡献，如果图片加载有问题请移步[知乎](https://www.zhihu.com/question/351841327/answer/1378606643)
 
-首先单击**视图**>**宏**>**查看宏**
+首先单击**视图**>**宏**>**查看宏**。
 
 ![1](https://s1.ax1x.com/2020/08/08/a5l3QA.jpg)
 
-给宏命名后，点击**创建**
+给宏命名后，点击**创建**。
 
 ![2](https://s1.ax1x.com/2020/08/08/a5laFS.jpg)
 
@@ -22,6 +22,8 @@
 [![a5lHw6.jpg](https://s1.ax1x.com/2020/08/08/a5lHw6.jpg)](https://imgchr.com/i/a5lHw6)
 
 ---
+ps:修改代码中a的数值会让随机效果更明显，感觉效果不明显的话可以修改a试试。
+
 下面推荐的字体有
 
 >汉仪晨妹子W

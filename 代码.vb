@@ -23,9 +23,13 @@ Dim R_Character As Range
     ParagraphSpace(4) = "12"
     ParagraphSpace(5) = "13"
 
-    Dim a
     'a数值越大，行距波动越大
     a = 1.5
+    
+    Dim b
+    'b数值越大,字距波动越大
+    b = 3
+    
     
     '不懂原理的话，不建议修改下列代码
 
@@ -39,7 +43,7 @@ Dim R_Character As Range
 
         R_Character.Font.Position = Int(VBA.Rnd * a) + 1
 
-        R_Character.Font.Spacing = 0
+        R_Character.Font.Spacing = Int(VBA.Rnd * b) - 1.3
 
 
     Next

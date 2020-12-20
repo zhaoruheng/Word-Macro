@@ -1,43 +1,58 @@
 ## 一个可以实现仿真手写的宏，支持随机修改字号，行间距，字体，字间距
-###### 2020.9.12 updata：增加随机字间距功能，加了一种推荐字体
+###### 2020.12.20 updata:优化代码，处理字间距、行间距、字偏移等细节，增加首行缩进。感谢Github@[喃南下](https://github.com/Airomeo)贡献
+###### 2020.9.12  updata：增加随机字间距功能，加了一种推荐字体
 ---
-#### 以下教程感谢知乎@[Canscxs](https://www.zhihu.com/question/351841327/answer/1378606643)贡献，如果图片加载有问题请移步[知乎](https://www.zhihu.com/question/37146954/answer/1393478995)或[洛谷云剪贴板](https://www.luogu.com.cn/paste/hhbqrs2b)
+#### 以下教程感谢知乎@[Canscxs](https://www.zhihu.com/people/cans-18-32)贡献，如果图片加载有问题请移步[知乎](https://zhuanlan.zhihu.com/p/338196683)
 
-首先单击**视图**>**宏**>**查看宏**
+首先单击**视图**>**宏**>**查看宏**(Mac用户为*工具*>*宏*)
 
-![1](https://s1.ax1x.com/2020/08/08/a5l3QA.md.jpg)
+![1](https://github.com/zhaoruheng/Word-Macro/blob/master/image/1.jpg?raw=true)
 
 给宏命名后，点击**创建**
 
-![2](https://s1.ax1x.com/2020/08/08/a5laFS.md.jpg)
+![2](https://github.com/zhaoruheng/Word-Macro/blob/master/image/2.jpg?raw=true)
 
-然后复制*代码*文件中代码，粘贴在Sub和End Sub之间，然后按下ctrl+s，关闭界面即可。
+然后复制*代码1.1*文件中代码，粘贴在Sub和End Sub之间，然后按下ctrl+s，关闭界面即可。
 
-![3](https://s1.ax1x.com/2020/08/08/a5lwWQ.md.jpg)
+ps:默认参数可能并不适合你的需求，代码中提供了各种参数的修改指引，你可以根据指引调出需要的效果
 
-作者的默认配置，字体都是微软雅黑，可以根据自己的需求改字体，前提是你的电脑上有相同名称的字体，下面会推荐几个。
+![3](https://github.com/zhaoruheng/Word-Macro/blob/master/image/3.jpg?raw=true)
 
-![4](https://s1.ax1x.com/2020/08/08/a5l0zj.md.jpg)
+可以根据自己的需求改字体，前提是**你的电脑上有相同名称的字体**，下面会推荐几个。
+
+![4](https://github.com/zhaoruheng/Word-Macro/blob/master/image/4.jpg?raw=true)
 
 好了之后再点运行
 
-![a5lHw6.jpg](https://s1.ax1x.com/2020/08/08/a5lHw6.md.jpg)
+![5](https://github.com/zhaoruheng/Word-Macro/blob/master/image/5.jpg?raw=true)
 
 下面是运行的效果，自己调一下参数会更好
+![6](https://github.com/zhaoruheng/Word-Macro/blob/master/image/6.png?raw=true)
+![7](https://github.com/zhaoruheng/Word-Macro/blob/master/image/7.png?raw=true)
+
+下面是旧版代码运行效果，如有需要可以从*代码1.0*中复制
+
 ![](https://s1.ax1x.com/2020/08/08/a5NtP0.jpg)
 
 ---
-ps:修改代码中a的数值会让随机效果更明显，感觉效果不明显的话可以修改a试试。
 
 下面推荐的字体有
 
 >汉仪晨妹子W
 
->汉仪平安行粗简
+>汉仪平安行粗简(不太推荐)
 
 >杨任东竹石体-Extralight
 
 >凌慧体-简（macOS自带）
+
+>萌妹子体
+
+>张维镜手写楷书
+
+>手写大象体
+
+>陈静的字完整版
 
 可以在以下链接中找到：
 

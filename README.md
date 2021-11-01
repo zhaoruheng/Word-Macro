@@ -1,4 +1,5 @@
 ## 一个可以实现仿真手写的宏，支持随机修改字号，行间距，字体，字间距
+###### 2020.11.1  updata:修复部分bug
 ###### 2020.12.20 updata:优化代码，处理字间距、行间距、字偏移等细节，增加首行缩进。感谢Github@[喃南下](https://github.com/Airomeo)贡献
 ###### 2020.9.12  updata：增加随机字间距功能，加了一种推荐字体
 ![Word-Macro](https://socialify.git.ci/zhaoruheng/Word-Macro/image?font=Inter&forks=1&issues=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Light)

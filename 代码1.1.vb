@@ -108,4 +108,3 @@ Dim R_Character As Range
     Application.ScreenUpdating = True
 
 End Sub
-```

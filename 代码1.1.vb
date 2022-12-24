@@ -9,6 +9,7 @@ Dim R_Character As Range
     FontSize = Split("18.5,18.5,18.5,19,18", ",")
 
     '字体名称在下列字体之间进行波动，改成需要的字体，但需要保证系统拥有下列字体，可以在word查看字体名字
+    '请注意，这里的值只影响中文，英文和数字的字体是固定的，如果需要修改英文和数字的字体，可以在下面的代码中修改
     Dim FontName() As String
     FontName = Split("萌妹子体,张维镜手写楷书,手写大象体,陈静的字完整版,汉仪晨妹子W", ",")
     
@@ -44,6 +45,7 @@ Dim R_Character As Range
         ' 字的左右间距
         R_Character.Font.Spacing = Choose(Int(VBA.Rnd * 5) + 1, -1, -0.5, 0, 0.5, 1) + b
         
+        '这是修改字符字体的代码，如果需要修改英文和数字的字体，可以在这里修改
         If R_Character = "。" Or R_Character = "，" Or R_Character = "," Or R_Character = "；" Or R_Character = "’" Or R_Character = "‘" Or R_Character = "“" Or R_Character = "”" Or R_Character = "！" Or R_Character = "？" Or R_Character = "、" Or R_Character = "：" Then
             ' 中文常用标点符号
             R_Character.Font.Name = "汉仪晨妹子W"

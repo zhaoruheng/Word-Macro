@@ -1,4 +1,5 @@
 ## 一个可以实现仿真手写的宏，支持随机修改字号，行间距，字体，字间距
+###### 2024.3.26 updata:增加随机倾斜，随机粗体。感谢知乎@[吳秀樹](https://www.zhihu.com/people/WU-Veda)贡献
 ###### 2022.12.24 updata:优化注释，增加了一些实践经验。感谢GitHub@[jackatlascn](https://github.com/jackatlascn)贡献
 ###### 2020.11.1  updata:修复部分bug
 ###### 2020.12.20 updata:优化代码，处理字间距、行间距、字偏移等细节，增加首行缩进。感谢Github@[喃南下](https://github.com/Airomeo)贡献
@@ -15,7 +16,12 @@
 
 ![2](https://github.com/zhaoruheng/Word-Macro/blob/master/image/2.jpg?raw=true)
 
-然后复制*代码1.1*文件中代码，粘贴在Sub和End Sub之间，然后按下ctrl+s，关闭界面即可。
+然后复制*代码1.2*文件中代码，粘贴在Sub和End Sub之间，然后按下ctrl+s，关闭界面即可。
+
+>各版本代码区别（可自行选择）:  
+>1.0:初始版，不建议使用  
+>1.1:增加随机字间距、行间距、字偏移等细节，增加首行缩进。  
+>1.2:增加随机倾斜，随机粗体
 
 ps:默认参数可能并不适合你的需求，代码中提供了各种参数的修改指引，你可以根据指引调出需要的效果
 

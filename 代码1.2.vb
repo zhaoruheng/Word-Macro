@@ -33,7 +33,7 @@ Dim R_Character As Range
         randomlnteger = Int((100 - 1 + 1) * VBA.Rnd + 1)
         If randomlnteger Mod 13 = 0 Then  '13控制倾斜概率，数字越大概率越低
         R_Character.Font.Italic = wdToggle ' 随机倾斜
-        ElseIf randomlnteger Mod 27 = 0 Then  '13控制粗体概率，数字越大概率越低
+        ElseIf randomlnteger Mod 27 = 0 Then  '27控制粗体概率，数字越大概率越低
         R_Character.Font.Bold = wdToggle ' 随机粗体
         End If
 

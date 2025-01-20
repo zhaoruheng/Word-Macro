@@ -4,6 +4,7 @@
 ###### 2020.11.1  updata:修复部分bug
 ###### 2020.12.20 updata:优化代码，处理字间距、行间距、字偏移等细节，增加首行缩进。感谢Github@[喃南下](https://github.com/Airomeo)贡献
 ###### 2020.9.12  updata：增加随机字间距功能，加了一种推荐字体
+[<img src="https://api.gitsponsors.com/api/badge/img?id=285808323" height="30">](https://api.gitsponsors.com/api/badge/link?p=pfXXfn/Ovg8BeBHG34aHSbhFjEJ1ya63uMLplcGX+9OKxO4hmwfGe4xci28edjCJilSaJSTiEklbh2SUzp0q8G4BZ0Ns+J21OgMaOjg8PaM/OOpU0/AeWpmAc6egnzEcVkRSZewQhNhMi9guuP4YDg==)
 ![Word-Macro](https://socialify.git.ci/zhaoruheng/Word-Macro/image?font=Inter&forks=1&issues=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Light)
 ---
 #### 以下教程感谢知乎@[Canscxs](https://www.zhihu.com/people/cans-18-32)贡献，如果图片加载有问题请移步[知乎](https://zhuanlan.zhihu.com/p/338196683)
